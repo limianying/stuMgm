@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="GBK"?>
+<EMAIL>
+  <HEAD>
+    <VERSION>0200</VERSION>
+    <PROVINCE>cn</PROVINCE>
+    <COMEFROM>cn999</COMEFROM>
+    <COMMANDID>CMD00001</COMMANDID>
+    <SKEY>7e2866675e4267920e5969e4934be2fd</SKEY>
+    <REQSN>9a1f6e332e25465589da32d4e142fefb</REQSN>
+    <REQTIME>20180731 16:20:11</REQTIME>
+  </HEAD>
+  <BODY>
+    <FROM>noreply@dragonpass.com.cn</FROM>
+    <FROMNAME>龙腾出行</FROMNAME>
+    <TO>18359146536@139.com</TO>
+    <TONAME>陈</TONAME>
+    <BRAND>动感地带</BRAND>
+    <BUSICODE>bst5689</BUSICODE>
+    <TEMPLATEID>1</TEMPLATEID>
+    <TITLE>尊敬的用户,您已成功使用龙腾出行服务，订单详情请点击查看</TITLE>
+    <INFO>
+      <ITEM>
+        <ID>001</ID>
+        <TYPE>text/plain</TYPE>
+        <VALUE><![CDATA[6437 78344 3233 283]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>002</ID>
+        <TYPE>text/plain</TYPE>
+        <VALUE><![CDATA[aaa]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>003</ID>
+        <TYPE>text/plain</TYPE>
+        <VALUE><![CDATA[广州白云机场]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>004</ID>
+        <TYPE>text/plain</TYPE>
+        <VALUE><![CDATA[国内头等舱休息室]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>005</ID>
+        <TYPE>text/plain</TYPE>
+        <VALUE><![CDATA[1]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>006</ID>
+        <TYPE>image/jpeg</TYPE>
+        <VALUE><![CDATA[/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy]]>
+      </ITEM>
+      <ITEM>
+        <ID>007</ID>
+        <TYPE>text/html</TYPE>
+        <VALUE><![CDATA[https://www.dragonpass.com.cn]]></VALUE>
+      </ITEM>
+      <ITEM>
+        <ID>008</ID>
+        <TYPE>image/jpeg</TYPE>
+        <VALUE><![CDATA[/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy]]>
+      </ITEM>
+    </INFO>    
+  </BODY>
+</EMAIL>
